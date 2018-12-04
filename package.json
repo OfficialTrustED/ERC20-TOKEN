@@ -1,0 +1,28 @@
+{
+  "name": "gcbib",
+  "version": "1.0.0",
+  "description": "smart contracts for gcbibp ico",
+  "main": "truffle.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "gcbib",
+    "ico",
+    "smart",
+    "contracts"
+  ],
+  "author": "blockgemini",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.1.2",
+    "chai-bignumber": "^2.0.2",
+    "ethjs-abi": "^0.2.1",
+    "solidity-coverage": "^0.5.11",
+    "truffle": "^4.1.14",
+    "web3-utils": "^1.0.0-beta.36"
+  }
+}
